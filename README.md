@@ -25,6 +25,15 @@ Call<List<PostModel>> getPost();
 > Hit to open post.json file  [Here](https://github.com/mbganesh/Minigram/blob/master/post.json).
 
 
+## MongoDB
+
+```
+ db.user_posts.insertMany( PASTE  POST JSON  )
+ 
+ ```
+ 
+ 
+
 ## Express
 ```
 
